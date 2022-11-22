@@ -19,3 +19,46 @@
 [22-Nov-2022 09:17:20 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:12) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
 [22-Nov-2022 09:17:23 UTC] Plugin DAM insert: 1
 [22-Nov-2022 09:17:23 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:12) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:27:11 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:27:11 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:12) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:27:53 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:27:54 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:27:54 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:27:55 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:28:56 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:28:56 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:12) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:29:56 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:31:53 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:32:53 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:34:53 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:35:53 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:36:26 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:36:28 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:36:30 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:37:31 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:39:31 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:41:31 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:43:31 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:43:31 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:15) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:43:35 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:43:35 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:15) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:43:59 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:43:59 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:15) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:44:01 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:44:01 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:15) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:44:02 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:44:02 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:15) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:44:03 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:44:03 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:15) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:44:24 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:44:49 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:44:54 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:44:56 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:45:57 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:47:57 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:49:57 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:51:57 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:53:57 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:55:57 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:57:57 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:59:57 UTC] Plugin DAM insert: 1
