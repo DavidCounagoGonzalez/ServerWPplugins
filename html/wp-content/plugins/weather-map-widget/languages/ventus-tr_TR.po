@@ -1,0 +1,236 @@
+# Copyright (C) 2020 David Matthew
+# This file is distributed under the GPL-3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ventus - Weather Map Widget & Shortcode 1.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/weather-map-"
+"widget\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-13T14:03:23+00:00\n"
+"PO-Revision-Date: 2020-12-13 18:34+0000\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: ventus\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr_TR\n"
+
+#. Plugin Name of the plugin
+msgid "Ventus - Weather Map Widget & Shortcode"
+msgstr "Ventus - Weather Map Bileşen & Kısakod"
+
+#. Description of the plugin
+msgid ""
+"Easily customise and embed the windy.com widget as a native WordPress widget "
+"or shortcode."
+msgstr ""
+"Windy.com bileşenini, WordPress bileşeni veya kısa kod olarak kolayca "
+"ekleyin."
+
+#. Author of the plugin
+msgid "David Matthew"
+msgstr "David Matthew"
+
+#. Author URI of the plugin
+msgid "https://davidmatthew.ie"
+msgstr "https://davidmatthew.ie"
+
+#: classes/class-ventus-widget.php:28
+msgid "Ventus Weather Map"
+msgstr "Ventus Hava Haritası"
+
+#: classes/class-ventus-widget.php:31
+msgid "A customisable windy.com weather map widget."
+msgstr "Özelleştirilebilir windy.com hava haritası bileşeni."
+
+#: classes/class-ventus-widget.php:127
+msgid "New title"
+msgstr "Yeni başlık"
+
+#: classes/class-ventus-widget.php:144
+msgid "Title:"
+msgstr "Başlık:"
+
+#: classes/class-ventus-widget.php:146
+msgid "Appears above the widget"
+msgstr "Bileşen üzerinde görünür"
+
+#: classes/class-ventus-widget.php:150
+msgid "Width:"
+msgstr "Genişlik:"
+
+#: classes/class-ventus-widget.php:154
+msgid "Height:"
+msgstr "Yükseklik:"
+
+#: classes/class-ventus-widget.php:157
+msgid "Accepts any valid CSS values for width and height"
+msgstr "Genişlik ve yükseklik için geçerli CSS kodlarını kabul eder"
+
+#: classes/class-ventus-widget.php:160
+msgid "Rounded Corners:"
+msgstr "Yuvarlak Köşeler:"
+
+#: classes/class-ventus-widget.php:162
+msgid "Accepts any valid CSS values for border-radius"
+msgstr "Kenarlık yarıçapı için geçerli CSS kodlarını kabul eder"
+
+#: classes/class-ventus-widget.php:166
+msgid "Latitude:"
+msgstr "Boylam:"
+
+#: classes/class-ventus-widget.php:170
+msgid "Longitude:"
+msgstr "Enlem:"
+
+#: classes/class-ventus-widget.php:173
+msgid "Tip: get these from windy.com"
+msgstr "Öneri: Bunları windy.com'dan alın"
+
+#: classes/class-ventus-widget.php:176
+msgid "Layer Type:"
+msgstr "Katman Tipi:"
+
+#: classes/class-ventus-widget.php:178
+msgid "Clouds"
+msgstr "Bulutlar"
+
+#: classes/class-ventus-widget.php:179
+msgid "CO Concentration"
+msgstr "CO Yoğunlaşması"
+
+#: classes/class-ventus-widget.php:180
+msgid "Lightning"
+msgstr "Yıldırım"
+
+#: classes/class-ventus-widget.php:181
+msgid "Rain"
+msgstr "Yağmur"
+
+#: classes/class-ventus-widget.php:182
+msgid "Sea Temperature"
+msgstr "Deniz sıcaklığı"
+
+#: classes/class-ventus-widget.php:183
+msgid "Snow Cover"
+msgstr "Kar kalınlığı"
+
+#: classes/class-ventus-widget.php:184
+msgid "Temperature"
+msgstr "Sıcaklık"
+
+#: classes/class-ventus-widget.php:185
+msgid "Waves"
+msgstr "Dalga"
+
+#: classes/class-ventus-widget.php:186
+msgid "Wind"
+msgstr "Rüzgar"
+
+#: classes/class-ventus-widget.php:188
+msgid "Choose from different primary overlays/layers"
+msgstr "Farklı ana katmanlar arasından seç"
+
+#: classes/class-ventus-widget.php:191
+msgid "Zoom Level:"
+msgstr "Yakınlaştırma derecesi:"
+
+#: classes/class-ventus-widget.php:203
+msgid "The lower the number, the further out the zoom"
+msgstr "Düşük rakam uzaklaştırır"
+
+#: classes/class-ventus-widget.php:207
+msgid "Pressure Isolines:"
+msgstr "Basınç haritası:"
+
+#: classes/class-ventus-widget.php:209 classes/class-ventus-widget.php:216
+#: classes/class-ventus-widget.php:226
+msgid "Show"
+msgstr "Göster"
+
+#: classes/class-ventus-widget.php:210 classes/class-ventus-widget.php:217
+#: classes/class-ventus-widget.php:227
+msgid "Hide"
+msgstr "Gizle"
+
+#: classes/class-ventus-widget.php:214
+msgid "Marker:"
+msgstr "İşaretçi:"
+
+#: classes/class-ventus-widget.php:220
+msgid "Show or hide the pressure isolines and marker"
+msgstr "Basınç haritasını ve işaretleyiciyi göster veya gizle"
+
+#: classes/class-ventus-widget.php:224
+msgid "Spot Forecast:"
+msgstr "Nokta Tahmin"
+
+#: classes/class-ventus-widget.php:231
+msgid "Forecast From:"
+msgstr "-Dan Tahmin"
+
+#: classes/class-ventus-widget.php:233
+msgid "Now"
+msgstr "Şimdi"
+
+#: classes/class-ventus-widget.php:234
+msgid "12h"
+msgstr "12s"
+
+#: classes/class-ventus-widget.php:235
+msgid "24h"
+msgstr "24s"
+
+#: classes/class-ventus-widget.php:238
+msgid "Options to display and set the time of the spot forecast"
+msgstr "Tahmin zamanını görüntüleyin ve ayarlayın"
+
+#: classes/class-ventus-widget.php:241
+msgid "Temperature Scale:"
+msgstr "Sıcaklık ölçeği:"
+
+#: classes/class-ventus-widget.php:243
+msgid "Celsius"
+msgstr "Celsius"
+
+#: classes/class-ventus-widget.php:244
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+#: classes/class-ventus-widget.php:246
+msgid "Choose your preferred temperature scale"
+msgstr "Tercih ettiğiniz sıcaklık ölçeğini seçiniz"
+
+#: classes/class-ventus-widget.php:249
+msgid "Wind Units:"
+msgstr "Rüzgar Birimi:"
+
+#: classes/class-ventus-widget.php:251
+msgid "Default"
+msgstr "Varsayılan"
+
+#: classes/class-ventus-widget.php:252
+msgid "Beaufort"
+msgstr "Bofor"
+
+#: classes/class-ventus-widget.php:253
+msgid "Kilometers per hour"
+msgstr "Saat başı kilometre"
+
+#: classes/class-ventus-widget.php:254
+msgid "Knots"
+msgstr "Knot"
+
+#: classes/class-ventus-widget.php:255
+msgid "Meters per second"
+msgstr "Saniyede metre"
+
+#: classes/class-ventus-widget.php:256
+msgid "Miles per hour"
+msgstr "Saat başı mil"
+
+#: classes/class-ventus-widget.php:258
+msgid "Choose your preferred wind measurement units"
+msgstr "Tercih ettiğiniz ölçüm birimini seçiniz"

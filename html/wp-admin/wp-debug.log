@@ -1,0 +1,21 @@
+[22-Nov-2022 09:06:10 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:06:22 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:06:24 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:06:24 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:06:24 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:06:24 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:06:28 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:06:36 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:06:39 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:07:31 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:07:33 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:08:34 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:10:33 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:12:33 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:14:06 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:15:06 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:17:06 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:17:20 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:17:20 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:12) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39
+[22-Nov-2022 09:17:23 UTC] Plugin DAM insert: 1
+[22-Nov-2022 09:17:23 UTC] PHP Fatal error:  Cannot redeclare renym_wordpress_typo_fix() (previously declared in /var/www/html/wp-content/plugins/Tabla/UsoBD.php:12) in /var/www/html/wp-content/themes/twentytwenty/functions.php on line 39

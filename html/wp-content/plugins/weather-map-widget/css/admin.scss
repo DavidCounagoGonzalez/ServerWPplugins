@@ -1,0 +1,33 @@
+/* Admin-only styles */
+
+.ventus-widget-admin {
+
+    div {
+        box-sizing: border-box;
+    }
+
+    .row {
+        margin: 1em 0;
+    }
+
+    .half {
+        width: 49%;
+        display: inline-block;
+    }
+
+    .half:nth-child(2) {
+        float: right;
+    }
+
+    label {
+        display: inline-block;
+        margin-bottom: 5px;
+    }
+
+    small {
+        display: block;
+        color: #aaa;
+        margin: 3px 0 0 2px;
+        font-size: 10px;
+    }
+}
